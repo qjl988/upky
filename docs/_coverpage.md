@@ -1,15 +1,16 @@
-![logo](_media/icon.svg)
+![logo](http://qjl988-tuchuang.oss-cn-beijing.aliyuncs.com/img/202210290138180.png)
 
-# docsify <small>3.5</small>
+# up考研
 
-> 一个神奇的文档网站生成器。
+> 一个有趣的考研公众号
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 考研资料
+- 四六级资料
+- +有趣的up主+
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+<!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
+[Get Started](https://qjl988.github.com/#/update)
+
 <!-- 背景图片 -->
 
 <!-- ![](_media/bg.png) -->
