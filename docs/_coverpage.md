@@ -9,7 +9,7 @@
 - +有趣的up主+
 
 <!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
-[Get Started](https://qjl988.github.io/upky/#/update)
+[获取资料](https://qjl988.github.io/upky/#/update)
 
 <!-- 背景图片 -->
 
