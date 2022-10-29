@@ -1,20 +1,20 @@
 ![logo](http://qjl988-tuchuang.oss-cn-beijing.aliyuncs.com/img/202210290138180.png)
 
-# up¿¼ÑÐ
+# upè€ƒç ”
 
-> Ò»¸öÓÐÈ¤µÄ¿¼ÑÐ¹«ÖÚºÅ
+> ä¸€ä¸ªæœ‰è¶£çš„è€ƒç ”å…¬ä¼—å·
 
-- ¿¼ÑÐ×ÊÁÏ
-- ËÄÁù¼¶×ÊÁÏ
-- +ÓÐÈ¤µÄupÖ÷+
+- è€ƒç ”èµ„æ–™
+- å››å…­çº§èµ„æ–™
+- +æœ‰è¶£çš„upä¸»+
 
 <!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
-[»ñÈ¡×ÊÁÏ](https://qjl988.github.io/upky/#/?id=×ÊÁÏÄ¿Â¼)
+[èŽ·å–èµ„æ–™](https://qjl988.github.io/upky/#/?id=èµ„æ–™ç›®å½•)
 
-<!-- ±³¾°Í¼Æ¬ -->
+<!-- èƒŒæ™¯å›¾ç‰‡ -->
 
 <!-- ![](_media/bg.png) -->
 
-<!-- ±³¾°É« -->
+<!-- èƒŒæ™¯è‰² -->
 
 ![color](#f0f0f0)
