@@ -1,0 +1,30 @@
+# 政治冲刺资料
+
+![](https://files.mdnice.com/user/21391/55766dc9-1d68-4412-a827-1c9462597f8a.png)
+
+> - 政治资料包含敏感信息，百度网盘链接很容易失效，up会增加多种不限速网盘链接提供下载
+> - 链接失效或有问题可以加微信`qjl988ky`
+> - 冲刺资料还在不断更新补充中...
+------
+
+[TOC]
+
+## 1. 冲刺背诵书籍【高清无水印】
+
+### 1.1 腿姐冲刺背诵手册 
+
+> [获取资料](https://pan.baidu.com/s/1aIGkOOncRnTRggE-fm6KNQ?pwd=2a3h)    
+
+### 1.2 徐涛冲刺背诵手册
+
+> [获取资料](https://pan.baidu.com/s/18AoSvlzWbjrTP7mIR97TBg?pwd=19ha)   
+
+### 1.3 风中劲草
+
+> [获取资料](https://pan.baidu.com/s/18hsgO_nEREF-DJ9C7qRl1g?pwd=rdwe)  
+
+## 2. 冲刺模拟卷【无水印可打印】
+
+### 2.1 米鹏模拟卷
+
+> [获取资料](https://pan.baidu.com/s/1Gq1fUBtPSv8VXpg_AXz6Qg?pwd=uhg0)
